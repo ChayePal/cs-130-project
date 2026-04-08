@@ -15,6 +15,3 @@ https://corgis-edu.github.io/corgis/csv/billionaires/
 - What industries produce the most billionaires?
 
 
-**Why I chose these:**
-- Interesting real-world data
-- Good for comparisons and graphs
